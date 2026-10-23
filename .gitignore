@@ -1,0 +1,16 @@
+data/
+__pycache__/
+*.pyc
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+*.log
+*.zip
+.env
+.env.*
+.venv/
+vendor/bin/
+vendor/*/tests/
+.DS_Store
+Thumbs.db
